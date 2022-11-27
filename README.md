@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/duy nguyễn viết minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy nguyễn viết minh" height="30" width="40" /></a>
-<a href="https://fb.com/nguyễn viết minh duy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn viết minh duy" height="30" width="40" /></a>
-<a href="https://instagram.com/nvmd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvmd6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/minh duy dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minh duy dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/duy-nguyễn-viết-minh-212271235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy nguyễn viết minh" height="30" width="40" /></a>
+<a href="https://fb.com/md6md6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn viết minh duy" height="30" width="40" /></a>
+<a href="https://instagram.com/nvmd6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvmd6" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@minhduydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="minh duy dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
